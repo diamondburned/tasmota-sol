@@ -1,0 +1,5 @@
+github.com/diamondburned/solar v0.0.0-20211114070827-f960d743ec42 h1:Q/VToRZCNIEqj4W6Q3d8mHWOEs6eURt7CCJgj0zeO00=
+github.com/diamondburned/solar v0.0.0-20211114070827-f960d743ec42/go.mod h1:oG2EgYSRmkI6w5CoLFcEXVQhcMNjqHdR8fqbaEqc4E0=
+github.com/go-test/deep v1.0.8/go.mod h1:5C2ZWiW0ErCdrYzpqxLbTX7MG14M9iiw8DgHncVwcsE=
+github.com/joho/godotenv v1.4.0 h1:3l4+N6zfMWnkbPEXKng2o2/MR5mSwTrBih4ZEkkz1lg=
+github.com/joho/godotenv v1.4.0/go.mod h1:f4LDr5Voq0i2e/R5DDNOoa2zzDfwtkZa6DnEwAbqwq4=
